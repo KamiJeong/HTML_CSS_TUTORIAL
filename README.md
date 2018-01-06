@@ -2,6 +2,14 @@ HTML, CSS Tutorial
 ==================
 
 ## 1 weeks
+
+## 2 weeks
+
+## 3 weeks
+
+## 4 weeks
+
+## Reference
 [HTML Tags](https://developer.mozilla.org/docs/Web/HTML/Element)
 
 [Place Holder Image](https://placeholder.com/)
@@ -12,4 +20,5 @@ HTML, CSS Tutorial
 
 [Lorem Ipsum](https://www.lipsum.com/)
 
+[BEM Naming](http://getbem.com/naming/)
 
