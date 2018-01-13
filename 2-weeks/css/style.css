@@ -1,0 +1,59 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #FFFFF0;
+}
+
+/*
+#fontColor {
+  color: #FF5722;
+}
+
+#bg {
+  color: #607D8B;
+}
+
+.bg {
+  background-color: #E6EE9C;
+}
+
+.fontColor {
+  color: #607D8B;
+}
+*/
+
+/*
+h2#idH2 {
+  color: #000;
+}
+
+#idH2.classH2 {
+  color: #AA2211;
+}
+
+#idH2 {
+  color: #00FFEE;
+}
+
+.classH2 {
+  color: #FF5722;
+}
+
+h2 {
+  color: #607D8B;
+}
+
+h2 {
+  color: #E6EE9C;
+}
+ */
+#intro .container h2 {
+  color: #AEAAEE;
+}
+
+header .container h2 {
+  color: #FF5722;
+}
+
+header h2 {
+  color: #E6EE9C;
+}

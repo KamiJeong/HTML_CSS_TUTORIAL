@@ -1,6 +1,8 @@
 HTML, CSS Tutorial
 ==================
 
+![alt text][magic]
+
 ## 1 weeks
 
 ## 2 weeks
@@ -22,3 +24,4 @@ HTML, CSS Tutorial
 
 [BEM Naming](http://getbem.com/naming/)
 
+[magic]: https://media.giphy.com/media/ujUdrdpX7Ok5W/giphy.gif "Magic"
